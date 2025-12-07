@@ -1,0 +1,12 @@
+Patient added successfully!
+Patient added successfully!
+
+Serving patient: John (Priority 1)
+
+--- Waiting List ---
+Priority 1: No patients
+Priority 2: No patients
+Priority 3: [Alice (25)] -> NULL
+
+--- Discharged Patients ---
+John -> NULL
